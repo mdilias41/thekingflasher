@@ -7,18 +7,11 @@
 
 
 /* Smartphones (portrait and landscape) ----------- */
-.navbar-brand,span{
-    color: blueviolet;
-    font-family: arial-black;
-    font-size: 30px;
-    font-weight: bold;
+.navbar-brand img{
+    width:150px;
+    height: auto;
 }
-.navbar-brand, sup{
-    color: red;
-}
-.navbar-brand, sub{
-    color: green;
-}
+
 .my-button{
     margin: 10px;
     border-radius: 30px;
